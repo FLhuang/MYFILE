@@ -1,2 +1,3 @@
 # MYFILE
 MYfile
+save myfile
